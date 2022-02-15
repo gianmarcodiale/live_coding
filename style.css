@@ -7,9 +7,17 @@ body {
 .gmail_logo {
     width: 250px;
     height: 150px;
+    margin-left: -2rem
 }
 
 .logo_text {
     font-size: 3rem;
     color: white;
+}
+
+.badge {
+    display: inline-block;
+    background-color: yellow;
+    border-radius: 100%;
+    padding: 10px;
 }
