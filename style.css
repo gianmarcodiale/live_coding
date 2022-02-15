@@ -1,0 +1,15 @@
+body {
+    width: 1100px;
+    background-image: url(/bg_image.jpeg);
+    margin:0 auto;
+}
+
+.gmail_logo {
+    width: 250px;
+    height: 150px;
+}
+
+.logo_text {
+    font-size: 3rem;
+    color: white;
+}
